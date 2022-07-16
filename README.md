@@ -1,4 +1,4 @@
-### Predição de valor de imóveis utilizando machine learning.
+### Predição de valor de imóveis utilizando Machine Learning.
 
 
 - 📊 Este projeto foi realizado durante um Bootcamp de Dados da Alura (Instituição de ensino de tecnologia).
