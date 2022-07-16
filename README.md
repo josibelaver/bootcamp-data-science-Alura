@@ -1,4 +1,4 @@
-## Oiii, eu sou Josiane Belaver!!! 
+### Predição de valor de imóveis utilizando machine learning.
 
 
 - 📊 Este projeto foi realizado durante um Bootcamp de Dados da Alura (Instituição de ensino de tecnologia).
